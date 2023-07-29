@@ -6,7 +6,8 @@
 <body>
     <div class="bg-black flex flex-col h-full items-center p-10">
     <h1 class="font-serif border border-grey-500 h-10 w-40 text-2xl font-medium text-center text-white">Final Preview</h1>
-    <img src="images/ss.png" alt="" class=" py-5">
+    <img src="images/ss1.png" alt="" class=" py-5">
+    <img src="images/ss2.png" alt="" class=" py-5">
 </div>
 </body>
 </html>
